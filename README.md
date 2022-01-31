@@ -1,6 +1,6 @@
 ### 👋
 
-I am a software engineer 👨‍💻 and adventurer 🧙‍♂️ (I hike, camp, backpacking, that sort of thing...). I'm currently living in Ann Arbor, Michigan and pursing my Ph.D. in paleoclimatology at the University of Michigan.
+I am a software engineer 👨‍💻 and adventurer 🧙‍♂️ (I hike, camp, backpack, that sort of thing...). I'm currently living in Ann Arbor, Michigan and working remotely as a Senior Software Engineer at [Affirm](https://affirm.com).
 
 I also created [aoestats.io](https://aoestats.io) and am a big AoE II fan/nerd 🤓
 
