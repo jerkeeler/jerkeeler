@@ -4,4 +4,4 @@ I am a software engineer 👨‍💻 and adventurer 🧙‍♂️ (I hike, camp,
 
 I also created [aoestats.io](https://aoestats.io) and am a big AoE II fan/nerd 🤓
 
-📫 You can reach me via [Twitter](https://twitter.com/jerkeeler) or [my website](https://keeler.dev)!
+📫 You can reach me via [my website](https://keeler.dev)!
